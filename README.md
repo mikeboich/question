@@ -15,3 +15,5 @@ It's not killing me, but for platform intended for artists, I would expect that 
 thx
 
 Mike
+
+p.s.  I originally did the drawing by leaving the coordinate system fixed, and calculating the line endpoints as r*sin*(theta), r*cos(theta), and then I changed to just rotating the coordinate system and drawing lines to (r,0), and the image is exactly the same.)
